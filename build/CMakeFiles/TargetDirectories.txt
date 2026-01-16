@@ -1,0 +1,3 @@
+/home/jiarujie/Stuff/C++/parkingslot_update/build/CMakeFiles/sat_visualizer.dir
+/home/jiarujie/Stuff/C++/parkingslot_update/build/CMakeFiles/edit_cache.dir
+/home/jiarujie/Stuff/C++/parkingslot_update/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/sat_visualizer.dir/main.cc.o -o sat_visualizer  /home/jiarujie/Stuff/C++/parkingslot_update/raylib/build/raylib/libraylib.a -lGL -lm -ldl -lpthread -lX11 
