@@ -15,6 +15,6 @@ cmake --build build
 ## 编译命令
 ```shell
 mkdir build
-cd buiild
+cd build
 cmake .. & make
 ```
